@@ -1,6 +1,6 @@
 owner=445325191732789248
-prefix=1
-game=Break | 1play made by hazemplay
+prefix=5
+game= 5help | 5play
 stayinchannel=true
 songinstatus=false
-token=NTc2ODAzMTI0Nzg2NzU3NjMz.XOCmUw.t5XDcDqPi5Bcgpd0WO40zsKBvzI
+token=NTc5NjE1NDQwMjc2NDIyNzA2.XOEvCA.KgS3R3jsUJzA2SvHwxDQe-NvA0o
